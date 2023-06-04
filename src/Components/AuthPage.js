@@ -69,6 +69,12 @@ const AuthPage = () => {
     
       
   </div>
+  <footer>
+    <div>
+      Email:admin<br></br>
+      password:password@123
+    </div>
+  </footer>
  </Base>
   )
 }
